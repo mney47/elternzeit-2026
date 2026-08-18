@@ -17,13 +17,16 @@
     3,
     2,
     1,
+    4,
     3,
-    3,
+    1,
+    1,
     2,
-    3,
     5,
     0
   ],
-  "savedAt": "2026-08-18T21:05:40.434Z",
+  "stops": 24,
+  "fingerprint": "Berlin Rummelsburg|Limbach-Oberfrohna|Bayreuth|Dennach / Neuenbürg|Reims / Épernay|Mont-Saint-Michel|La Rochelle / Île de Ré|Urt / Pays Basque|Bilbao|Oviedo / Asturien|Santiago de Compostela|Porto|Cascais (HUB)|Lissabon (The Lumiares)|São Brás de Alportel|Málaga|Zwischenstopp (Ort offen)|Valencia|Barcelona|Montpellier|Annecy|Basel oder Zürich (Ort offen)|Familienhotel Bayern (Ort offen)|Berlin Rummelsburg",
+  "savedAt": "2026-08-18T22:46:29.685Z",
   "savedBy": "Marcus"
 }
